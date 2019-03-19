@@ -17,14 +17,20 @@ namespace dotnet_core_mvc_sample.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "PROFFESIONAL PROFILE.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Information.";
+
+            return View();
+        }
+        public IActionResult WorkExperience()
+        {
+            ViewData["Message"] = "WORK EXPERIENCE.";
 
             return View();
         }
