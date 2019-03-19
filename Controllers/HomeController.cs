@@ -34,6 +34,20 @@ namespace dotnet_core_mvc_sample.Controllers
 
             return View();
         }
+        
+        public IActionResult Education()
+        {
+            ViewData["Message"] = "Education.";
+
+            return View();
+        }
+
+        public IActionResult Skills()
+        {
+            ViewData["Message"] = "Skills.";
+
+            return View();
+        }
 
         public IActionResult Privacy()
         {
