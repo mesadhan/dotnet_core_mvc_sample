@@ -14,7 +14,7 @@
     dotnet build
 
 
-# Mini-OS Demo
+# .Net Core MVC Protfolio Demo
 
 ![Alt Text](/protfolio.gif)
 
