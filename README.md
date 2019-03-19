@@ -1,7 +1,8 @@
-# .Net Core MVC Profolio Sample
+# .Net Core MVC Protfolio Sample
 
 
 ## Create New MVC Applicaiton 
+
     dotnet new mvc -o appname
 
 ## Run Applicaiton
@@ -13,4 +14,7 @@
     dotnet build
 
 
+# Mini-OS Demo
+
+![Alt Text](/protfolio.gif)
 
